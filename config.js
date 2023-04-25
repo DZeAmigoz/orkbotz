@@ -1,13 +1,13 @@
 //=============『 Utama 』================== //
-global.owner = ['18194154591'] 
+global.owner = ['+6285219464542'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'orkbotz'
-global.numberowner = '18194154591'
-global.instagram = 'https://instagram.com/Kawaragi_Senju67'
-global.github = 'https://github.com/Deuzork'
+global.numberowner = '+6285219464542'
+global.instagram = 'https://instagram.com/dvolkerss'
+global.github = 'https://github.com/DZeAmigoz'
 global.dana = '085219464542'
 global.pulsa = '083861555179'
 global.gopay = '083861555179'
